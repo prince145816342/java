@@ -1,0 +1,9 @@
+public class trycatch{
+public static void main(String [] args){
+try {
+int = 5/0;
+}
+catch (Exception e){
+system.out.println("it cannot be divided by zero");
+}
+}
